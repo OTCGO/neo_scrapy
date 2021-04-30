@@ -131,7 +131,7 @@ simplejson==3.11.1
 singledispatch==3.4.0.3
 six==1.10.0
 traitlets==4.3.2
-Twisted==13.1.0
+Twisted==20.3.0
 tzlocal==1.4
 uritemplate==3.0.0
 urllib3==1.22
